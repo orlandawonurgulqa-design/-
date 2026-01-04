@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Vision Studio 2.2--12.29",
+  "description": "A professional Text-to-Image application utilizing Gemini 2.5 Flash Image. Features style definitions, reference image import, automated negative prompt generation, and high-resolution downloads.",
+  "requestFramePermissions": []
+}
